@@ -35,7 +35,7 @@ p {
     border-radius: 5px;
 }
 #header {
-    background-image: url("/Tienda/web/IMG-20201124-WA0021.jpg");
+    background-image: url("Tienda/web/IMG-20201124-WA0021.jpg");
     background-size: center;
 }
 #header img {
