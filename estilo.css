@@ -212,3 +212,14 @@ input, textarea {
   iframe{
       position: relative;
   }
+  h2 {
+    font-size: 12pt;
+    color: #04393f;
+    text-align: center;
+    padding: 5px 0 10px 0;
+    margin: 0 0 10px 0;
+}
+h2 span {
+    border: 2px dashed #20bcd5;
+    padding: 3px;
+}
